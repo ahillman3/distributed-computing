@@ -1,0 +1,5 @@
+Vowel 'a'	12007
+Vowel 'e'	19850
+Vowel 'i'	10786
+Vowel 'o'	11468
+Vowel 'u'	4294
